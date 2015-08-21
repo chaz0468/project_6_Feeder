@@ -1,6 +1,10 @@
 # Project 6 JavaScript Testing with Jasmine (Udacity Frontend Web Load nano degree)
 
-The application is used to test JavaScript using the Jasmine framework. We are testing several aspects of the "Refreader" application.
+## Running instructions:
+* visit my githubpage(http://chaz0468.github.io/project_6_Feeder/)
+* Load page
+* Click on hamburger menu icon to unhide then click again hide menu
+* Select/click a menu option to change the feed information
 
 ## Tests Conducted are
 
@@ -16,11 +20,6 @@ The application is used to test JavaScript using the Jasmine framework. We are t
     *   the "feed" div contains at least one entry after loadFeed function completes its work
 *   **New Feed Selection**
     *   information changes after loading
-
-## Steps taken 
-* Load page
-* Click on hamburger menu icon to unhide then click again hide menu
-* Select/click a menu option to change the feed information
 
 ## References Used:
 
