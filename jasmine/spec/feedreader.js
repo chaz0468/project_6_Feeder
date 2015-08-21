@@ -47,7 +47,7 @@ $(function() {
 		it('displays when clicked', function() {
 			spyOn(menu_Anchor, 'click');
 			menu_Anchor.click();
-			expect(menuAnchor.click).toHaveBeenCalled();
+			expect(menu_Anchor.click).toHaveBeenCalled();
 		});
 		// Ensure menu is hidden when menu icon is clicked again
 		it('second click makes it hidden', function() {
